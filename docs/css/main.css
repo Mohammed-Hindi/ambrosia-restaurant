@@ -1,10 +1,9 @@
 /* Fonts */
 :root {
-  --default-font: "Manrope", system-ui, -apple-system, "Segoe UI", sans-serif;
-  --heading-font: "Urbanist", sans-serif;
-  --nav-font: "Satoshi", sans-serif;
+  --default-font: "Roboto", system-ui, -apple-system, "Segoe UI", sans-serif; 
+  --heading-font: "Playfair Display", serif; 
+  --nav-font: "Montserrat", sans-serif; 
 }
-
 
 /* Global Colors - Dark & Gold Theme */
 /* Global Colors - Elegant Dark & Gold Theme */
